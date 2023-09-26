@@ -27,15 +27,6 @@ export const tools = [
 
 export const db = [
     {
-        nome:'CEAC',
-        desc:'An institutional website in development for the spiritist center Amigos de Chico, in Natal - Brazil.',
-        vercel: 'https://ceac.vercel.app/',
-        url:'https://github.com/jpbetanza/CEAC',
-        src: ceac,
-        imgautor:'',
-        utils: [react,tailwind,html,js],
-    },
-    {
         nome:'Programa AME',
         desc:'A website designed to support a project by doctorate students from the Department of Collective Health at the Federal University of Rio Grande do Norte (UFRN)',
         vercel: 'https://programa-ame.vercel.app/',
